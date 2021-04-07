@@ -1,0 +1,7 @@
+HADO Adédédji Anselme
+
+Tp1 QCM
+
+① Signification de la description du joueur = Player.new = F
+
+② Différence entre les majuscules et les minuscules = F 
